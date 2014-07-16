@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nss-cohort-2014-06-07/pet-sitter"
+    "url": "https://github.com/JoyP/pet-sitter"
   },
-  "author": "Chyld Medford <chyld.medford@gmail.com>",
+  "author": "Joy Pratt <joypratt820@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nss-cohort-2014-06-07/pet-sitter/issues"
+    "url": "https://github.com/JoyP/pet-sitter/issues"
   },
-  "homepage": "https://github.com/nss-cohort-2014-06-07/pet-sitter",
+  "homepage": "https://github.com/JoyP/pet-sitter",
   "dependencies": {
     "chalk": "^0.5.1",
     "sync-prompt": "^0.4.1"
